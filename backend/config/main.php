@@ -36,8 +36,6 @@ return [
                 '<_m>/<_c>/<_a>' => '<_m>/<_c>/<_a>'
             ]
         ],
-        // 'view' => [
-        //     'theme' => 'vova07\themes\site\Theme'
         'view' => [
             'theme' => 'vova07\themes\admin\Theme'
         ],
